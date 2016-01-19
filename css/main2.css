@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: content-box;
+}
+.container{
+	width: 100%;
+	text-align: center;
+	margin:auto;
+}
+
+.globe{
+	border-radius: 100%;
+}
+
+.container{
+	width: 100%;
+	text-align: center;
+	margin:auto;
+}
+
+.img{
+	display:inline-block;
+	position: relative;
+	margin-right: 10px;
+}
