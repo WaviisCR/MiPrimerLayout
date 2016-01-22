@@ -29,6 +29,12 @@ a{
 }
 .grupal{
 		width: 688px;
+		margin-top: 10px;
+		margin-bottom: 25px;
+}
+h3 {
+	text-align: left;
+	margin-left: 24%
 }
 .paragraph{
 	height:50%;
@@ -45,10 +51,12 @@ a{
 .line{
 	border-top: 4px solid;
 	width: 70px;
+	margin-top: 10px;
 }
 .border{
 	color: gray;
 	margin: auto;
+	padding-bottom: 10px;
 }
 .salto{
 	margin-left: 24%;
@@ -66,14 +74,4 @@ a{
 	margin-right: 10px;
 }
 
-.line{
-	border-top: 4px solid;
-	width: 70px;
-}
-.border{
-	color: gray;
-	margin: auto;
-}
-.salto{
-	margin-left: 24%;
-}
+
